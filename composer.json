@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "python": ">=2.7",
+        "python": ">=2.7"
     }
 }
