@@ -1,0 +1,16 @@
+{
+    "name": "tkvclub01/python-api-google",
+    "description": "Google custom search python api",
+    "type": "python",
+    "license": "tkcvlub01",
+    "authors": [
+        {
+            "name": "tkvclub01",
+            "email": "admin@clads.link"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "python": ">=2.7",
+    }
+}
